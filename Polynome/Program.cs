@@ -32,6 +32,7 @@ namespace Polynome
         public override string ToString()
         {
             string result = "";
+
             int n = Degree;
             for (int i = 0; i <=Degree ; i++)
             {
