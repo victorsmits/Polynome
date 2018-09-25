@@ -33,6 +33,8 @@ namespace Polynome
         {
             string result = "";
 
+
+            
             int n = Degree;
             for (int i = 0; i <=Degree ; i++)
             {
